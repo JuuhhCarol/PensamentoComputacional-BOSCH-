@@ -1,3 +1,5 @@
 ﻿# PensamentoComputacional-BOSCH
-*Neurônio pensante 
+*Neurônio pensante
+ 
 *Funções de erro e ativação 
+
